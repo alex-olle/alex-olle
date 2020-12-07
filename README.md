@@ -1,10 +1,10 @@
-### Hi there 👋 It's Alex on GitHub!
+## Hi there 👋 It's Alex on GitHub!
 
-## Web Developer who likes helping people to create their desired website and learning from them.
+### Web Developer who likes helping people to create their desired website and learning from them.
 
 - 🌱 I’m currently graduate as a Full Stack Developer on Ironhack
 
-- 🔭 My latest teamwork project is Volunt'Hero [Volunt'Hero](https://volunthero.herokuapp.com)
+- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
 
