@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently graduate as a Full Stack Developer on Ironhack
 
-- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com)
+<!--- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
 
