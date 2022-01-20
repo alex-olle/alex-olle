@@ -2,7 +2,7 @@
 
 ### Web Developer who likes helping people to create their desired website and learning from them.
 
-- 🌱 I’m currently graduate as a Full Stack Developer on Ironhack
+- 🌱 I’m currently working as a QA Engineer on Rakuten TV
 
 <!--- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com) -->
 
@@ -16,6 +16,8 @@
 **alex-olle/alex-olle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🌱 I’m currently graduate as a Full Stack Developer on Ironhack
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
