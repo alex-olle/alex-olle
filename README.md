@@ -2,7 +2,7 @@
 
 ### Web Developer who likes helping people to create their desired website and learning from them.
 
-- 🌱 I’m currently working as a QA Engineer on Rakuten TV - [@alejandro-olle-RTV](https://github.com/alejandro-olle-RTV)
+- 🌱 I’m currently working as a QA Engineer on Rakuten TV
 
 <!--- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com) -->
 
