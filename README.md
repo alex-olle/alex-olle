@@ -2,10 +2,11 @@
 
 ### Web Developer who likes helping people to create their desired website and learning from them.
 
+Welcome to my Github personal account, where I develop personal projects and learn new things.
+
+Here you will find more info about me:
 - 🌱 I’m currently working as a QA Engineer on Rakuten TV
-
 <!--- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com) -->
-
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alex-olle)](https://github.com/anuraghazra/github-readme-stats)
