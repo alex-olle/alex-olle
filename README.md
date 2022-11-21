@@ -5,7 +5,7 @@
 Welcome to my Github personal account, where I develop personal projects and learn new things.
 
 Here you will find more info about me:
-- 🌱 I’m currently working as a QA Engineer on Rakuten TV
+- 🌱 I’m currently working as a QA Engineer on Rakuten TV - [@alejandro-olle-RTV](https://github.com/alejandro-olle-RTV)
 <!--- 🔭 My latest teamwork project is [Volunt'Hero](https://volunthero.herokuapp.com) -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
 <!-- TO FIX
