@@ -7,10 +7,14 @@ Welcome to my Github personal account, where I develop personal projects and lea
 ## About me:
 - 💻 I love creating websites, from the API to the client, stay tuned for updates! Soon &rarr; 🥘!
 - 🧪 I’m currently working as a QA Engineer on Rakuten TV - [@alejandro-olle-RTV](https://github.com/alejandro-olle-RTV)
-- 🌱 I'm currently learning Django
+- ↗️ I'm looking to work as a Frontend Developer
+- 🌱 I'm currently learning Django and improving my React skills
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
+
+<!--
 - 👯 I’m looking to collaborate on generative AI projects
 - 🤔 I’m looking for help with [OpenAI API](https://openai.com/blog/openai-api)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
+-->
 
 <!-- 
 ## Projects
