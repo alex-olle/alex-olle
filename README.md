@@ -34,7 +34,7 @@ Welcome to my Github personal account, where I develop personal projects and lea
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-olle&layout=donut&theme=synthwave" />
 </a>
 <a href="https://github.com/alex-olle">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alex-olle&theme=synthwave&hide=issues,contribs,stars&show_icons=true&rank_icon=github" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=alex-olle&theme=synthwave&hide=issues,contribs,stars&show_icons=true&rank_icon=github" />
 </a>
 
 <!--
