@@ -30,9 +30,13 @@ Welcome to my Github personal account, where I develop personal projects and lea
 </td>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-olle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alex-olle">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-olle&layout=donut&theme=synthwave" />
+</a>
+<a href="https://github.com/alex-olle">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alex-olle&theme=synthwave&hide=issues,contribs,stars&show_icons=true&rank_icon=github" />
+</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alex-olle)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alex-olle/alex-olle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
