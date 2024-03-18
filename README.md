@@ -5,7 +5,7 @@
 Welcome to my Github personal account, where I develop personal projects and learn new things.
 
 ## About me:
-- 💻 I love creating websites, from the API to the client, stay tuned for updates! Soon &rarr; 🥘!
+- 💻 I love creating websites, from the API to the client, stay tuned for updates! Soon &rarr; 🍉🍊🥦🍅!
 - 🧪 I’m currently working as a QA Engineer on Rakuten TV - [@alejandro-olle-RTV](https://github.com/alejandro-olle-RTV)
 - ↗️ I'm looking to work as a Frontend Developer
 - 🌱 I'm currently learning Django and improving my React skills
