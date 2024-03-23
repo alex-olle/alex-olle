@@ -1,4 +1,4 @@
-# Hi there 👋 It's Alex on GitHub!
+# Hi there 👋 It's Àlex on GitHub!
 
 ### Web Developer who likes helping people to create their desired website and learning from them.
 
