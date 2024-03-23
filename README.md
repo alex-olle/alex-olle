@@ -39,12 +39,12 @@ Welcome to my Github personal account, where I develop personal projects and lea
     </div>                                                                          
   </td>
   <td width="50%">
-    <h3 align="center">Meditation timer</h3>
+    <h3 align="center">Fruites i Verdures de temporada de Catalunya</h3>
     <div align="center">
-      <a href="https://github.com/alex-olle/timer" target="_blank">
+      <a href="https://github.com/alex-olle/fv_client" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=Github&logoColor=white&color=purple">
       </a>
-      <p>Customizable meditation timer with soothing background music and user-defined interval reminders, fostering a serene and focused meditation experience.</p>
+      <p>The frontend interface for Fruites i Verdures de temporada de Catalunya provides real-time updates on produce availability, promoting healthy eating and supporting local farmers.</p>
     </div>                                                                          
   </td>
 </table>
@@ -53,7 +53,7 @@ Welcome to my Github personal account, where I develop personal projects and lea
 
 <table>
   <td width="100%">
-    <h3 align="center">Fruites i Verdures API</h3>
+    <h3 align="center">Fruites i Verdures de temporada de Catalunya API</h3>
     <div align="center">
       <a href="https://github.com/alex-olle/fv_api" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=Github&logoColor=white&color=purple">
