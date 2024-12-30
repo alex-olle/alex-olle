@@ -5,9 +5,9 @@
 Welcome to my Github personal account, where I develop personal projects and learn new things.
 
 ## About me:
-- 💻 I love creating websites, from the API to the client, stay tuned for updates! Soon &rarr; 🍉🍊🥦🍅!
+- 💻 I love creating websites, from the API to the client, stay tuned for updates! Soon &rarr; 👨‍🍳🧑‍🍳🥘 !
 - 🧪 I’m currently working as a QA Engineer on Epos Now - [@alejandro-olle-RTV](https://github.com/alejandro-olle-RTV)
-- 🌱 I'm currently learning Typescript and improving my React skills
+- 🌱 I'm currently learning Astro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-olle-ramos)
 <!-- - ↗️ I'm looking to work as a Frontend Developer -->
 
