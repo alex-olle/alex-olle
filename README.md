@@ -29,6 +29,7 @@ Welcome to my Github personal account, where I develop personal projects and lea
 ### Frontend
 
 <table>
+  <tr>
   <td width="50%">
     <h3 align="center">Meditation timer</h3>
     <div align="center">
@@ -47,6 +48,18 @@ Welcome to my Github personal account, where I develop personal projects and lea
       <p>The frontend interface for Fruites i Verdures de temporada de Catalunya provides real-time updates on produce availability, promoting healthy eating and supporting local farmers.</p>
     </div>                                                                          
   </td>
+  </tr>
+  <tr>
+    <td width="50%">
+    <h3 align="center">Temps de cuina</h3>
+    <div align="center">
+      <a href="https://github.com/alex-olle/temps-cuina" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=Github&logoColor=white&color=purple">
+      </a>
+      <p>The cooking guide for optimal times and temperatures provides precise recommendations for baking, air frying, and boiling various ingredients, ensuring perfect results every time.</p>
+    </div>                                                                          
+  </td>
+  </tr>
 </table>
 
 ### Backend
